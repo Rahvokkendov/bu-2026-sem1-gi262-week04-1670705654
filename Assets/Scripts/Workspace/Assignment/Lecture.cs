@@ -10,7 +10,7 @@ namespace Assignment
         {
             //LCT01_SyntaxList();
             // LCT02_SyntaxLinkedList();
-            LCT03_SyntaxHashTable();
+            //LCT03_SyntaxHashTable();
             //LCT04_SyntaxDictionary();
         }
 

@@ -384,69 +384,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Assignment.Assignment
   as01Words:
   - Apple
-  - Apple
-  - Orange
-  - Apple
-  - Banana
-  - Banana
-  - Passion Fruit
-  as02Numbers: 
-  as03Input: 
+  as02Numbers: 00000000080000000800000008000000090000000100000002000000
+  as03Input: '(]'
   as04List:
     values: 0100000002000000030000000400000005000000
   as05List:
-    values:
-    - A
-    - B
-    - C
-    - D
-    - E
-    - F
+    values: []
   as06FirstDictionary:
-    entries:
-    - key: Apple
-      value: 1
-    - key: Pine Apple
-      value: 3
+    entries: []
   as06SecondDictionary:
-    entries:
-    - key: Apple
-      value: 9
-    - key: Orange
-      value: 2
+    entries: []
   as07List:
-    values: 0100000001000000020000000200000003000000030000000300000004000000
-  as08Numbers: 01000000020000000200000003000000010000000200000003000000
+    values: 
+  as08Numbers: 
   as09Inventory:
-    entries:
-    - key: Steel Sword
-      value: 1
-    - key: Skooma
-      value: 12
-  as09ItemName: Skooma
-  as09Quantity: 5
+    entries: []
+  as09ItemName: 
+  as09Quantity: 0
   as10EventQueue:
-    values:
-    - eventType: Enemy
-      name: Assassin
-      priority: 1
-    - eventType: Level
-      name: LevelUP!
-      priority: 1
-    - eventType: Enemy
-      name: Assassin
-      priority: 1
-    - eventType: Powerup
-      name: Healt Boost Found
-      priority: 1
+    values: []
   as11PlayerStats:
-    entries:
-    - key: Kills
-      value: 10
-    - key: Death
-      value: 20
-  as11StatName: Kills
-  as11Value: 60
+    entries: []
+  as11StatName: 
+  as11Value: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
